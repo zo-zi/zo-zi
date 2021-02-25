@@ -1,4 +1,4 @@
-<h1 align="center">4:3</h1>
+<h1 align="center">:3</h1>
 
 <p align="center"><strong style="color: #787878">Hehe :)</strong></p>
 
